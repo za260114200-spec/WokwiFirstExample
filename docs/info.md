@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+With different combinations off inputs, you will see only one led powered on and if you select all the inputs you will get all the outputs powered on. 
 
 ## How to test
 
-Explain how to use your project
+You need to compare with the true table all the inputs and check if the outputs will powered on correctly.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Led, Logic States (and, or, not), dip Swithc.
